@@ -56,6 +56,3 @@ The system successfully recommends movies based on user ratings and similarity m
 
 Feel free to contribute to the project by submitting bug fixes, feature enhancements, or suggesting improvements to the codebase. Your contributions are highly appreciated!
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
