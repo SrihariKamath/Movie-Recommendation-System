@@ -51,9 +51,8 @@ The system successfully recommends movies based on user ratings and similarity m
 
 ### Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- [Srihari Kamath](https://github.com/SrihariKamath)
+
 
 Feel free to contribute to the project by submitting bug fixes, feature enhancements, or suggesting improvements to the codebase. Your contributions are highly appreciated!
 
